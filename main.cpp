@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
+    cout << "Mi primer proyecto en GIT y GITHUB!!" << endl;
     return 0;
 }
